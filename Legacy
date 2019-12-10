@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    
+    <title>css</title>
+    <style>
+    body{
+      background:#7d5353;
+    }
+    </style>
+    <div class="site-title">
+      <h1>
+        A Legacy of Love
+      </h1>
+    
+    </div>
+    
+    <h1>
+    Lavetta Gorden Robinson
+    </h1>
+    <h2>
+      The Past<br><p>
+      This is how it will begin, based on actual conversations with the elders of the families.
+      As documents begin to surface from different sources, I will compile data from sources obtained from different Personal files. My mother's  estate is a "gold mine". Next come the various "family trees" that I'm still trying digest as I have begin to construct my own. Family archives are available but some are inconsistant with the facts that I have gathered to date.
+      </p>The Present<br><p>
+      To be continued:
+      </p>The Future<p>
+      To be continued:
+      </p>
+    </h2>
+    <h3>
+      1800's<br>1900's<br>2000'S
+    </h3>
+  </head>
+</html>
